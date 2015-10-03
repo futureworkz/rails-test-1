@@ -8,9 +8,13 @@ The app will record the vote in database and then show another joke for the user
 When there is no more jokes to show, the app will display a `"That's all the jokes for today! Come back another day!"` message.
 
 There is no need to display the result of the votes.  
-User should not see the same joke twice.
+User should not see the same joke twice.  
+User do not need to register or login to view the joke or vote for the joke.
+
+For the simplicity of the test, there is no need to track if the same user has voted for the jokes ie. the user can vote again if she wishes to.
 
 ## Bonus Points
++ Implemented design fully
 + The app is mobile responsive.
 + Joke is displayed via AJAX
 

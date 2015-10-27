@@ -1,5 +1,5 @@
 # Jokes Single Serving Website
-This is a Ruby evaluate test to create a single serving website that displays jokes for user to vote.
+This is a Ruby evaluation test to create a single serving website that displays jokes for user to vote.
 
 ## Requirements
 This app will display a single joke for the user to read.  

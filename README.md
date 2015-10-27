@@ -11,7 +11,9 @@ There is no need to display the result of the votes.
 User should not see the same joke twice.  
 User do not need to register or login to view the joke or vote for the joke.
 
-For the simplicity of the test, there is no need to track if the same user has voted for the jokes ie. the user can vote again if she wishes to.
+## Technical Note
+App will use cookie to track if a user has voted for a joke.  
+It is okay if the user clears his cookie and votes again.
 
 ## Bonus Points
 + Implemented design fully

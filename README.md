@@ -18,18 +18,11 @@ For the simplicity of the test, there is no need to track if the same user has v
 + The app is mobile responsive.
 + Joke is displayed via AJAX
 
-## Evaluation
-- Deploy to Heroku
-- Give tester collaborator access to your Heroku
-- Evaluation will be based on code and app using [our code standard](https://github.com/futureworkz/playbook/tree/master/protocols/code-review#review-standard)
-- Unfinished app is better than a lousy finished app
-
 ## Rules
-- 4 hours
-- You can ask any question to the tester anytime
-- Can use Internet and any of your previous codes
-- No remote git - No copying others - No discussion
-- Work like you will continue the project for another 10 sprints
+Please refer to the [rules](https://github.com/futureworkz/playbook/tree/master/protocols/ruby-evaluation-test#rules) in our playbook.
+
+## Submission of Work
+Please refer to our [submission of work](https://github.com/futureworkz/playbook/tree/master/protocols/ruby-evaluation-test#submission-of-work) in our playbook.
 
 ## Jokes Content
 

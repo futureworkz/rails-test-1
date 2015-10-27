@@ -1,4 +1,4 @@
-# Jokes Single Serving Website
+# Jokee Single Serving Website
 This is a Ruby evaluation test to create a single serving website that displays jokes for user to vote.
 
 ## Requirements
